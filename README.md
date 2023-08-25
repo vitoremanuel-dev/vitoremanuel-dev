@@ -4,7 +4,7 @@
 - I currently live in Teresina - PI (Brazil), but I am open to traveling the world in search of new opportunities;
 - In my free time I like to play sports (volleyball, soccer and beach tennis), play video games and watch movies
 
-# Contact me
+## Contact me
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=87CEEB&color:FFF)](mailto:vitoremanuel.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=87CEEB&color:FFF)](https://www.linkedin.com/in/vitoremanuel-dev/)
