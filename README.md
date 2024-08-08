@@ -1,3 +1,18 @@
+## Sobre mim
+Desenvolvedor Mobile e Web com foco em React Native, React, TypeScript e Next.js. Apaixonado por criar soluções inovadoras e impactantes que facilitem a vida dos usuários.
+
+Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas e já passei por experiências enriquecedoras como freelancer na G-Dev Society, onde desenvolvi interfaces com React, React Native e TypeScript. Minha trajetória também inclui um bootcamp intensivo de seis meses pela Santander Academy, especializado em desenvolvimento mobile híbrido com Flutter.
+
+Sou um profissional dedicado e disciplinado, sempre em busca de novas oportunidades para aprender e crescer. Minhas principais competências incluem:
+
+- Desenvolvimento Mobile e Web utilizando React, React Native, e TypeScript;
+- Experiência em projetos com Next.js;
+- Consumo e manipulação de dados de APIs em projetos React/React Native.
+
+Além do desenvolvimento, sou entusiasta do vôlei, tanto na prática quanto como espectador. Essa paixão pelo esporte me ensina a importância do trabalho em equipe, disciplina e constante busca pela melhoria.
+
+Estou sempre à disposição para novas conexões e oportunidades que possam contribuir para o meu crescimento profissional e para a evolução da comunidade de desenvolvimento!
+
 ## Contact me
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=87CEEB&color:FFF)](mailto:vitoremanuel.dev@gmail.com)
